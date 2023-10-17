@@ -1,0 +1,30 @@
+[
+    {
+        "pseudo": "arthur",
+        "mdp": "1234",
+        "pp": "pp/pp_arthur.png",
+        "followers": [],
+        "suivis": []
+    },
+    {
+        "pseudo": "alice",
+        "mdp": "password123",
+        "pp": "",
+        "followers": [],
+        "suivis": []
+    },
+    {
+        "pseudo": "bob",
+        "mdp": "letmein",
+        "pp": "",
+        "followers": [],
+        "suivis": []
+    },
+    {
+        "pseudo": "Tibo",
+        "mdp": "sport",
+        "pp": "",
+        "followers": [],
+        "suivis": []
+    }
+]
